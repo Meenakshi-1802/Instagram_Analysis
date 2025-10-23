@@ -1,8 +1,8 @@
-📊 Instagram Data Analysis
+# 📊 Instagram Data Analysis
 
 Welcome to the Instagram Analysis project — a data visualization and analytics project based on real comment data collected from Instagram. This project demonstrates how to process, clean, and visualize insights from social media interactions.
 
-🧰 Tools & Libraries Used Python 🐍
+## 🧰 Tools & Libraries Used Python 🐍
 
 Pandas – data manipulation
 
@@ -12,7 +12,7 @@ WordCloud – comment cloud generation
 
 VS Code – code editor
 
-📁 Dataset The dataset contains anonymized Instagram comment data with the following fields:
+## 📁 Dataset The dataset contains anonymized Instagram comment data with the following fields:
 
 created_timestamp
 
@@ -28,9 +28,9 @@ hashtags_used_count
 
 and more...
 
-📂 File: comments.csv
+## 📂 File: comments.csv
 
-📈 Visualizations Included Here are the key visual insights generated from the data:
+## 📈 Visualizations Included Here are the key visual insights generated from the data:
 
 ✅ 1. Emoji Usage Emoji
 <img width="1915" height="1013" alt="Emoji" src="https://github.com/user-attachments/assets/6587ab75-fc55-4b82-9151-a0c25dbb0a18" />
@@ -51,7 +51,7 @@ and more...
 <img width="800" height="400" alt="weekday_comments" src="https://github.com/user-attachments/assets/e58ea800-5a07-436f-9ff1-40e5d5ad1a7e" />
 
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 1️⃣ Clone the repo:
 
